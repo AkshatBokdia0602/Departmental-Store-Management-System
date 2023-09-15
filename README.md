@@ -47,7 +47,7 @@ The Departmental Store Management System is a Python-based application designed 
 
 ## Documentation 📑
 
-Detailed documentation for this project, including how to use the application, database schema, and code structure, can be found in the **Documentation.txt** file.
+Detailed documentation for this project, including how to use the application, database schema, and code structure, can be found in the **Documentation.md** file.
 
 ## Contributing 💡
 Contributions are welcome! If you have any ideas for improving the game or find any issues, please open an issue or create a pull request. We appreciate your contributions.
